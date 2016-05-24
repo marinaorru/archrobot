@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Marina Berteli Orrú
 locale: en_US
-description: Describe your website here.
+description: Robotics in Architecture
 logo: site-logo.png
 search: true
 url: http://localhost:4000
