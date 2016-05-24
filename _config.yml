@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Marina Berteli Orrú
-locale: en_US
+locale: Chicago, Illinois - US
 description: Robotics in Architecture
 logo: site-logo.png
 search: true
@@ -48,9 +48,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Marina Berteli Orrú
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: mberteliorru@hawk.iit.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
