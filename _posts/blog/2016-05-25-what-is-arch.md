@@ -14,10 +14,8 @@ Architecture comes from the latin architectura and the greek arkhitekton (‘arc
 
 The word architecture can mean several things according to the context that is used. It can be:
 
-1. A general term to describe buildings
-
+* A general term to describe buildings
 * The art and science of designing buildings
-
 * Knowledge of art, science, technology and humanity
 
 
