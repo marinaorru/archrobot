@@ -10,8 +10,13 @@ image:
 date: 2016-05-25T15:39:55-04:00
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Architecture comes from the latin architectura and the greek arkhitekton (‘architect’ and ‘builder’). In general, the meaning is linked to process and product of planning, designing and constructing buildings and physical structures.
+
+The word architecture can mean several things according to the context that is used. It can be:
+- A general term to describe buildings
+- The art and science of designing buildings
+- Knowledge of art, science, technology and humanity
+
 
 ## Sample Heading
 
