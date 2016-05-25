@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathJax Example"
+title: "Rob/Arch 2012 - Vienna"
 modified:
 categories: blog
 excerpt:
@@ -10,7 +10,7 @@ image:
 date: 2016-05-24
 ---
 
-[MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
+The architectural interest in robotics was really well represented by a conference that happened in Vienna, called Rob/Arch, in 2012. Founded by Sigrid Brell-Cokcan and Johannes Braumann, the conference had as objective creating a plataform that shows the innovative uses of robotic fabrication in the creative industry, bringing together members of industry and academia, as wll as architects, artists and designers.
 
 ## Usage
 
