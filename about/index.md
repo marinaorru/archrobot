@@ -11,7 +11,7 @@ image:
 
 In our age of digitalization, virtualization, and automation, the relationship between architects and robots seems to be blooming.
 
-## This blog is all about:
+## This site is all about:
 
 * Researches in current and historical trends in architectural robotics.
 * Ideas to develop a robotic system.
