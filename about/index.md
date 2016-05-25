@@ -19,8 +19,3 @@ In our age of digitalization, virtualization, and automation, the relationship b
 * Images of experimental models.
 * Texts and explanations about digital fabrication tools.
 * Related articles and posts to provide an inspiring environment.
-
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
