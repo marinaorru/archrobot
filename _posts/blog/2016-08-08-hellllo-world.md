@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "What is architecture?"
 modified:
 categories: blog
 excerpt:
