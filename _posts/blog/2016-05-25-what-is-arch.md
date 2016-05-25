@@ -17,6 +17,16 @@ The word architecture can mean several things according to the context that is u
 * A general term to describe buildings
 * The art and science of designing buildings
 * Knowledge of art, science, technology and humanity
+* The practice and design activity of the architect
+
+Mainly, it has to do with planning and design form, space and ambience to reflect functional, technical, social, environmental and aesthetic considerations. One of the most important requirements is the creative manipulations and coordination of materials and technology.
+
+Talking about the first written works on the subject of architecture, the earliest found is De architectura, by the Roman architect Vitruvius in the early 1st century AD. According to him, a good building should satisfy three principles:
+
+* Firmitas: durability, a building should stand up robustly and remain in good condition
+* Utilitas: utility, it should be suitable for the purposes for which it is used
+* Venustas: beauty, it should be aesthetically pleasing
+
 
 
 ## Sample Heading
