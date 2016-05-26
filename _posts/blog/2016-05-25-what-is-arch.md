@@ -6,9 +6,9 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: whatisarch.jpg
+  credit: FeelGrafix
+  creditlink: http://feelgrafix.com/737736-architecture.html
 date: 2016-05-25T15:39:55-04:00
 ---
 
