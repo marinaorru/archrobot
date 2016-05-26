@@ -4,7 +4,7 @@ title: Robotics in Architecture
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: about0.jpg
+  feature: about.jpg
   credit: Morfotatic
   creditlink: https://morfotactic.files.wordpress.com/2012/09/render_5_logo.jpg
 ---
