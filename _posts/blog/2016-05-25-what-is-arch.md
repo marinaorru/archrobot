@@ -30,10 +30,10 @@ Talking about the first written works on the subject of architecture, the earlie
 There is many famous architects that wrote about architecture, its meanings, functions and effects. Below, there are some famous quotes about it.
 
 * ‘Architecture is bound to situation, and I feel like the site is a metaphysical link, a poetic link, to what a building can be.’ – Steven Holl
-* ‘Architecture starts when you carefully put two bricks together. There it begins.’ Mies van der Rohe
-* ‘Form follows function.’ Louis Sullivan
-* ‘Architecture is an expression of values.’ Norman Foster
-* ‘This is beautiful. That is Architecture.’ Le Corbusier
+* ‘Architecture starts when you carefully put two bricks together. There it begins.’ - Mies van der Rohe
+* ‘Form follows function.’ - Louis Sullivan
+* ‘Architecture is an expression of values.’ - Norman Foster
+* ‘This is beautiful. That is Architecture.’ - Le Corbusier
 
 
 
