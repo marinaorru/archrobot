@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is architecture?"
+title: "What is robotics?"
 modified:
 categories: blog
 excerpt:
