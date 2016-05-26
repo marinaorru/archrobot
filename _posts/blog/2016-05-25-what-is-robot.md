@@ -28,7 +28,7 @@ Nowadays, robots work in many different ways. They are machines that can be used
 
 NASA and other companies are also studying new types of robots that will work with people and help them. TED is a nonprofit devoted to spreading ideas with powerful talks that have already talked about our future depending on robots, in a way that robots can help us instead of replacing us. Below, there is a video where the roboticist Rodney Brooks introduces Baxter, the robot which could work alongside population.
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=nA-J0510Pxs" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//youtu.be/nA-J0510Pxs" frameborder="0"> </iframe>
 
 
 
