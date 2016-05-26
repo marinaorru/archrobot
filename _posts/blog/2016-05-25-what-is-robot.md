@@ -20,6 +20,19 @@ Isaac Asimov is known as the science-fiction author and also the first to use th
 *Robots must follow instructions from humans without violating rule 1
 *Robots must protect themselves without violating the other rules
 
+Nowadays, robots work in many different ways. They are machines that can be used to do jobs, sometimes by themselves and sometimes with a person telling them what to do. NASA for example, uses robots to many functions:
+
+*Robotic arms on spacecraft can move large objects in space
+*Robotic spacecraft can visit other worlds
+*Robotic airplanes can fly without a pilot aboard
+
+NASA and other companies are also studying new types of robots that will work with people and help them. TED is a nonprofit devoted to spreading ideas with powerful talks that have already talked about our future depending on robots, in a way that robots can help us instead of replacing us. Below, there is a video where the roboticist Rodney Brooks introduces Baxter, the robot which could work alongside population.
+
+
+video: Why we will rely on robots
+videolink: https://www.ted.com/talks/rodney_brooks_why_we_will_rely_on_robots
+
+
 
 **References:**
 
