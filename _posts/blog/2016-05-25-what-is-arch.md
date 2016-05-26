@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: whatisarch.jpg
+  feature: whatisarch2.jpg
   credit: FeelGrafix
   creditlink: http://feelgrafix.com/737736-architecture.html
 date: 2016-05-25T15:39:55-04:00
