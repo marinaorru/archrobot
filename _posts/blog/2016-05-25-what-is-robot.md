@@ -30,9 +30,8 @@ NASA and other companies are also studying new types of robots that will work wi
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=nA-J0510Pxs" frameborder="0"> </iframe>
+
 **References:**
 
 
