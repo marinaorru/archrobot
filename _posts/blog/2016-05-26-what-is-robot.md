@@ -6,9 +6,9 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: whatisarch2.jpg
-  credit: FeelGrafix
-  creditlink: http://feelgrafix.com/737736-architecture.html
+  feature: whatisrobot.jpg
+  credit: International Institute for Research
+  creditlink: http://www.impactfactorjournals.com/
 date: 2016-05-25T15:39:55-04:00
 ---
 
