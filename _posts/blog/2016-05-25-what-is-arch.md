@@ -40,7 +40,8 @@ There is many famous architects that wrote about architecture, its meanings, fun
 
 
 
-### Sample Heading 2
+# References:
+
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
