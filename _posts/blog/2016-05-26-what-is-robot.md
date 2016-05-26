@@ -9,7 +9,7 @@ image:
   feature: whatisrobot.jpg
   credit: International Institute for Research
   creditlink: http://www.impactfactorjournals.com/
-date: 2016-05-24T15:39:55-04:00
+date: 2016-05-25T15:39:55-04:00
 ---
 
 Architecture comes from the latin _architectura_ and the greek _arkhitekton_ (‘architect’ and ‘builder’). In general, the meaning is linked to process and product of planning, designing and constructing buildings and physical structures. The word architecture can mean several things according to the context that is used. It can be:
