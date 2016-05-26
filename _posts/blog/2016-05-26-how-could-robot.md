@@ -9,7 +9,7 @@ image:
   feature: whatisrobot.jpg
   credit: International Institute for Research
   creditlink: http://www.impactfactorjournals.com/
-date: 2016-05-23T15:39:55-04:00
+date: 2016-05-26T15:39:55-04:00
 ---
 
 The definition explains robotics as a branch of engineering that involves the conception, design, manufacture and operation of robots. This field overlaps with electronics, computer science, artificial intelligence, mechatronics, nanotechnology and bioengineering.
