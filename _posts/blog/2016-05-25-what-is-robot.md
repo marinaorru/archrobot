@@ -28,31 +28,11 @@ Nowadays, robots work in many different ways. They are machines that can be used
 
 NASA and other companies are also studying new types of robots that will work with people and help them. TED is a nonprofit devoted to spreading ideas with powerful talks that have already talked about our future depending on robots, in a way that robots can help us instead of replacing us. Below, there is a video where the roboticist Rodney Brooks introduces Baxter, the robot which could work alongside population.
 
-
-< iframe width="560" height="315" src="http://www.youtube.com/watch?v=nA-J0510Pxs" frameborder="0" > </iframe>
-
 <iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>
 
-< iframe width="560" height="315" http:"//www.youtube.com/watch?v=nA-J0510Pxs" frameborder="0" > </iframe>
-
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
-
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
-
-{% highlight html %}
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
-{% endhighlight %}
-
-And here's a Vimeo embed for testing purposes.
-
-<iframe src="//player.vimeo.com/video/98146708?title=0&amp;byline=0" width="500" height="281" frameborder="0"> </iframe>
-
-<iframe src="https://youtu.be/nA-J0510Pxs" width="500" height="281" frameborder="0"> </iframe>
-
-
-
-
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 **References:**
 
 
