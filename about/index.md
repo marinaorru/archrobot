@@ -4,9 +4,9 @@ title: Robotics in Architecture
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: FeelGrafix
-  creditlink: http://feelgrafix.com/737736-architecture.html
+  feature: about0.jpg
+  credit: Morfotatic
+  creditlink: https://morfotactic.files.wordpress.com/2012/09/render_5_logo.jpg
 ---
 
 In our age of digitalization, virtualization, and automation, the relationship between architects and robots seems to be blooming.
