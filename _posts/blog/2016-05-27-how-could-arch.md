@@ -9,7 +9,7 @@ image:
   feature: whatisrobot.jpg
   credit: International Institute for Research
   creditlink: http://www.impactfactorjournals.com/
-date: 2016-05-27T15:39:55-04:00
+date: 2016-05-26T15:39:55-04:00
 ---
 
 Although robotics in architecture is easily imagined when the robots are doing the structure or composition of a building, there are recent studies that also applies the system in the other direction. Instead of robots doing architecture, the architecture is seen as a robotic system.
