@@ -16,7 +16,9 @@ Robots ability to move and act autonomously is seductive and fascinates us. For 
 
 The most famous and biggest version was imagined by Ron Herron, with the ‘Walking City’ in 1964. In an article at Archigram, he proposed building massive mobile robotic structures, with their own intelligence that could freely roam the world, moving to wherever their resources or abilities were needed. Different walking cities could interconnect with each other to form larger metropolises or disperse when needed. Individual buildings or structures could also be mobile, moving wherever their owner wanted or needs dictated.
 
-  ![Image of Walking City](https://marinaorru.github.io/images/archigram.jpg)
+![Image of Walking City](https://marinaorru.github.io/images/archigram.jpg)
+image:
+  feature: archigram.jpg
   credit: International Institute for Research
   creditlink: http://www.impactfactorjournals.com/
 
