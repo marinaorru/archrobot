@@ -21,7 +21,7 @@ The Walking City - Image Credit: [Archigram](http://archigram.westminster.ac.uk/
 
 Now, many architects are actually thinking and making architecture with robots. This new interest is well represented by the Rob I Arch 2012 conference in Vienna, attempting to create a platform that shows the innovative uses of robotic fabrication.
 
-This type of fabrication is allowed by programs as KUKA, Rhinoceros and Grasshopper, where designers can control robots and simulate the fabrication process digitally. An important example was made in 2006, when Gramazio & Kohler taught a class using a robot arm to lay bricks.
+This type of fabrication is allowed by programs as KUKA, Rhinoceros and Grasshopper, where designers can control robots and simulate the fabrication process digitally. An important example was made in 2006, when Gramazio & Kohler taught a class using a robot arm to lay bricks. Named as _The Programed Wall_ and _Flight-Assembled Structure_, those two constructions were entire built by robots.
 
 Currently, the most prevalent form of robotics in architecture is the robot arms. However, architects and designs have begun to study and employ other robotic strategies for design.
 
