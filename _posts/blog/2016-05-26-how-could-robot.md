@@ -25,12 +25,9 @@ This type of fabrication is allowed by programs as KUKA, Rhinoceros and Grasshop
 
 Currently, the most prevalent form of robotics in architecture is the robot arms. However, architects and designs have begun to study and employ other robotic strategies for design.
 
-
-<iframe src="//player.vimeo.com/video/98146708?title=0&amp;byline=0" width="500" height="281" frameborder="0"> </iframe>
-
 <iframe src="//player.vimeo.com/video/149328392?title=0&amp;byline=0" width="500" height="281" frameborder="0"> </iframe>
 
-**References:**
+**Sources:**
 
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
