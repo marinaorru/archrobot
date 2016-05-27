@@ -12,23 +12,12 @@ image:
 date: 2016-05-26T15:39:55-04:00
 ---
 
-The definition explains robotics as a branch of engineering that involves the conception, design, manufacture and operation of robots. This field overlaps with electronics, computer science, artificial intelligence, mechatronics, nanotechnology and bioengineering.
+Although robotics in architecture is easily imagined when the robots are doing the structure or composition of a building, there are recent studies that also applies the system in the other direction. Instead of robots doing architecture, the architecture is seen as a robotic system.
 
-Isaac Asimov is known as the science-fiction author and also the first to use the term robotics in a short story in the 1940s. He suggested three principles to guide the behavior of robots and smart machines, the _Three Laws of Robotics_:
+Stephen A. Gage and Will Thorne were part of the people who tried this. They explore the potential of robotics in automated building facades, with a system called ‘edge monkeys’. It was a system of small robots that would regulate building facades, including energy usage and indoor conditions, by checking thermostats, closing windows, adjusting blinds, etc. They would even communicate with building users who they identify as wasting energy.
 
-*Robots must never harm human beings
-*Robots must follow instructions from humans without violating rule 1
-*Robots must protect themselves without violating the other rules
+Another system was made by Peter Testa and Devyn Weiser, who believed that the potential of the robot arm is in coordinated groups working together. They constructed a house equipped with five new robot arms, called ‘Robot House’. The intention was to teach students to explore the collaborative movement of robots working in parallel, which provides a process different from the typically linear sequence of design, program, fabricate.
 
-Nowadays, robots work in many different ways. They are machines that can be used to do jobs, sometimes by themselves and sometimes with a person telling them what to do. NASA for example, uses robots to many functions:
-
-*Robotic arms on spacecraft can move large objects in space
-*Robotic spacecraft can visit other worlds
-*Robotic airplanes can fly without a pilot aboard
-
-NASA and other companies are also studying new types of robots that will work with people and help them. TED is a nonprofit devoted to spreading ideas with powerful talks that have already talked about our future depending on robots, in a way that robots can help us instead of replacing us. Below, there is a video where the roboticist Rodney Brooks introduces Baxter, the robot which could work alongside population.
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/nA-J0510Pxs" frameborder="0"> </iframe>
 
 **References:**
 
