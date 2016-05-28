@@ -6,9 +6,9 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: whatisrobot.jpg
-  credit: International Institute for Research
-  creditlink: http://www.impactfactorjournals.com/
+  feature: roombots0.jpg
+  credit: Wired
+  creditlink: http://www.wired.uk.co/
 date: 2016-05-27T15:39:55-04:00
 ---
 
