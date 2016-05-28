@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: whatisrobot.jpg
+  feature: robotarch0.jpg
   credit: International Institute for Research
   creditlink: http://www.impactfactorjournals.com/
 date: 2016-05-26T15:39:55-04:00
