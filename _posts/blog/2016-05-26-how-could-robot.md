@@ -7,8 +7,8 @@ excerpt:
 tags: []
 image:
   feature: robotarch0.jpg
-  credit: International Institute for Research
-  creditlink: http://www.impactfactorjournals.com/
+  credit: Robots in Architecture
+  creditlink: http://www.robotsinarchitecture.org/
 date: 2016-05-26T15:39:55-04:00
 ---
 
