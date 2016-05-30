@@ -4,16 +4,12 @@ title: Robotics in Architecture
 locale: Chicago, Illinois - US
 description: Marina Berteli Orrú
 logo: Robot.png
-search: true
-url: http://marinaorru.github.io
-
----
 image:
   feature: whatisarch2.jpg
   credit: FeelGrafix
   creditlink: http://feelgrafix.com/737736-architecture.html
----
-
+search: true
+url: http://marinaorru.github.io
 
 # Jekyll configuration
 
