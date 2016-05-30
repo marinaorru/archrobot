@@ -8,8 +8,7 @@ image:
   credit: Morfotatic
   creditlink: https://morfotactic.files.wordpress.com/2012/09/render_5_logo.jpg
 ---
-
-In our age of digitalization, virtualization, and automation, the relationship between architects and robots seems to be blooming.
+The purpose of this blog is to register the process of a research called ‘Robotics in Architecture’, oriented by professor Brett Balogh during the Summer 2016 at Illinois Institute of Technology (IIT). During the period of two months, this site will receive posts with important contents to the progress of the research, which will also serve as reference to the final project.
 
 ## This site is all about:
 
