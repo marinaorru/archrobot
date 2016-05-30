@@ -7,6 +7,14 @@ logo: Robot.png
 search: true
 url: http://marinaorru.github.io
 
+---
+image:
+  feature: whatisarch2.jpg
+  credit: FeelGrafix
+  creditlink: http://feelgrafix.com/737736-architecture.html
+---
+
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
