@@ -9,7 +9,7 @@ image:
   feature: roombots0.jpg
   credit: Wired
   creditlink: http://www.wired.uk.co/
-date: 2016-05-27T15:39:55-04:00
+date: 2016-06-01T15:39:55-04:00
 ---
 
 Knowing about the objectives and expectations for the final project, this post is focused on primary ideas for the robot system. Through some quick and basic thoughts, the main topics that can have potential to a robot system are:
