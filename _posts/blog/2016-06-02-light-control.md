@@ -6,9 +6,9 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: roombots0.jpg
-  credit: Wired
-  creditlink: http://www.wired.uk.co/
+  feature: lightcontrol0.jpg
+  credit: King of Wallpapers
+  creditlink: http://kingofwallpapers.com/light.html
 date: 2016-06-02T15:39:55-04:00
 ---
 
