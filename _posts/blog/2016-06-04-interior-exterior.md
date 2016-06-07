@@ -18,7 +18,7 @@ If we look at The Glass House, by Philip Johnson, we are looking to a prime exam
 
 The idea for the robot is at some point to achieve this type of relationship between those two environments, where some component of the exterior is strongly related on interior, as an integrated system. When inside a building, you should not feel detached from the outside, you should be able to carry both together.
 
-James Turrel is an American artist who has worked directly with light and space to create artworks that engage viewers with the limits and wonder of human perception.
+[James Turrel](http://jamesturrell.com/) is an American artist who has worked directly with light and space to create artworks that engage viewers with the limits and wonder of human perception.
 
 ‘His work is not about light, or a record of light, it is light.’ Calvin Tompkins, New Yorker critic
 
