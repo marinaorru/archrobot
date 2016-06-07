@@ -22,7 +22,7 @@ The idea for the robot is at some point to achieve this type of relationship bet
 
 ‘His work is not about light, or a record of light, it is light.’ Calvin Tompkins, New Yorker critic
 
-He had several investigations aligning and mixing interior and exterior, formed the groundwork for the open sky spaces that characters his work, as Roden Crater.  It is located in the Painted Desert region of Northern Arizona and is an unprecedented large-scale artwork created within a volcanic cinder cone by the artist.
+He had several investigations aligning and mixing interior and exterior, formed the groundwork for the open sky spaces that characters his work, as [Roden Crater](http://rodencrater.com/about/).  It is located in the Painted Desert region of Northern Arizona and is an unprecedented large-scale artwork created within a volcanic cinder cone by the artist.
 
 
 
