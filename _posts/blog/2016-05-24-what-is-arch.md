@@ -38,6 +38,11 @@ There is many famous architects that wrote about architecture, its meanings, fun
 
 **References:**
 
+[Wikipedia](https://en.wikipedia.org/wiki/Architecture)
+
+[Brooklynrail](http://www.brooklynrail.org/2013/09/criticspage/what-is-architecture-art)
+
+
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
