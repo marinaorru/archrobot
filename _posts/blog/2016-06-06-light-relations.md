@@ -24,7 +24,7 @@ The Sunset - Image Credit: [Rantplaces](http://www.rantplaces.com/2014/11/04/10-
 The idea now is to keep in mind the light control for the interior, but also working together at some point with representations of the sunset and sunrise colors inside a building. In that way, we could spend hours inside this place knowing how the outside is. The amount of light would be totally linked with the amount of light that is on the exterior, making the balance to economy energy. Also, during some periods of the day the light would change its colors according to the sunrise and sunset colors, making a beautiful and inspirational space indoor.
 
 ![Image of Sunrise](https://marinaorru.github.io/images/sunrise.jpg)
-The Sunris - Image Credit: [Deviantart](http://millymiau.deviantart.com/)
+The Sunrise - Image Credit: [Deviantart](http://millymiau.deviantart.com/)
 
 **References:**
 
