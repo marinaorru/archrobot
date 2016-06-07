@@ -28,6 +28,7 @@ He had several investigations aligning and mixing interior and exterior, formed 
 
 
 **References:**
+
 [Self Growth Articles](http://www.selfgrowth.com/articles/the-relationship-between-the-interior-and-exterior)
 
 [James Turrell Webpage](http://jamesturrell.com/)
