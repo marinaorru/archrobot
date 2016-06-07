@@ -29,6 +29,12 @@ Currently, the most prevalent form of robotics in architecture is the robot arms
 
 **Sources:**
 
+[Spectrum](http://spectrum.ieee.org/automaton/robotics/industrial-robots/robots-in-architecture)
+
+[Robots in Architecture](http://www.robotsinarchitecture.org/about-robarch)
+
+[Archdaily](http://www.archdaily.com/336849/5-robots-revolutionizing-architectures-future)
+
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
