@@ -6,9 +6,9 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: lightcontrol0.jpg
-  credit: King of Wallpapers
-  creditlink: http://kingofwallpapers.com/light.html
+  feature: coversunset.jpg
+  credit: The Apricity
+  creditlink: http://www.theapricity.com/forum/showthread.php?138616-Sunrise-or-sunset
 date: 2016-06-06T15:39:55-04:00
 ---
 
