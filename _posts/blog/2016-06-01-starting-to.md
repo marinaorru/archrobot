@@ -21,8 +21,6 @@ Knowing about the objectives and expectations for the final project, this post i
 
 Those ideas were just basic thoughts of how could a robot help us inside the context of architecture. The main objective is to change something in a building that can respond to people action, modifying their behavior. The modification can be done through the behavior from the robot and would result in giving personality to some building.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/yolIElqSDu4" frameborder="0"> </iframe>
-
 
 **References:**
 
