@@ -30,7 +30,7 @@ NASA and other companies are also studying new types of robots that will work wi
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/nA-J0510Pxs" frameborder="0"> </iframe>
 
-**References:**
+**Sources:**
 
 [Tech Target](http://whatis.techtarget.com/definition/robotics)
 
