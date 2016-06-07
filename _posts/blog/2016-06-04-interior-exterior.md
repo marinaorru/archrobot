@@ -23,7 +23,10 @@ The idea for the robot is at some point to achieve this type of relationship bet
 
 [James Turrel](http://jamesturrell.com/) is an American artist who has worked directly with light and space to create artworks that engage viewers with the limits and wonder of human perception.
 
-‘His work is not about light, or a record of light, it is light.’ Calvin Tompkins, New Yorker critic
+_‘His work is not about light, or a record of light, it is light.’_ - Calvin Tompkins, New Yorker critic
+
+![Image of Sky](https://marinaorru.github.io/images/craterseye.jpg)
+The Glass House - Image Credit: [Roden Crater](http://rodencrater.com/spaces/craters-eye/)
 
 He had several investigations aligning and mixing interior and exterior, formed the groundwork for the open sky spaces that characters his work, as [Roden Crater](http://rodencrater.com/about/).  It is located in the Painted Desert region of Northern Arizona and is an unprecedented large-scale artwork created within a volcanic cinder cone by the artist.
 
