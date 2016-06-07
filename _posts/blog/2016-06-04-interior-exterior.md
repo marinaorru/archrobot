@@ -9,7 +9,7 @@ image:
   feature: roombots0.jpg
   credit: Wired
   creditlink: http://www.wired.uk.co/
-date: 2016-06-02T15:39:55-04:00
+date: 2016-06-04T15:39:55-04:00
 ---
 
 In architecture, the relationship between interior and exterior has been studied for many years. They are completely different entities that co exists and need to be worked with a great dialogue. 
