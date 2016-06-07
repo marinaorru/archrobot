@@ -16,7 +16,7 @@ In architecture, the relationship between interior and exterior has been studied
 
 If we look at The Glass House, by Philip Johnson, we are looking to a prime example of this statement. The house is all made of glass and the structure stands in the middle of a green area. A visitor that is inside the house, sometimes cannot feel alienated with the other area, the green would feel as part of the house. The structure is not made of glass, but it does not interfere at the landscape as a barrier. Sometimes the eye does not recognize where the structure ends and the natural environment starts.
 
-!(https://marinaorru.github.io/images/glasshouse.jpg)
+![Image of Glass House](https://marinaorru.github.io/images/glasshouse.jpg)
 The Glass House - Image Credit: [Commons Wikimedia](https://commons.wikimedia.org/wiki/File:Glass_House_2006.jpg)
 
 The idea for the robot is at some point to achieve this type of relationship between those two environments, where some component of the exterior is strongly related on interior, as an integrated system. When inside a building, you should not feel detached from the outside, you should be able to carry both together.
