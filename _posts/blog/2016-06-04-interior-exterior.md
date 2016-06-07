@@ -28,9 +28,9 @@ He had several investigations aligning and mixing interior and exterior, formed 
 
 
 **References:**
-[Self Growth](http://www.selfgrowth.com/articles/the-relationship-between-the-interior-and-exterior)
-(http://jamesturrell.com/)
-(http://rodencrater.com/)
+[Self Growth Articles](http://www.selfgrowth.com/articles/the-relationship-between-the-interior-and-exterior)
+[James Turrell Webpage](http://jamesturrell.com/)
+[Roden Crater Webpage](http://rodencrater.com/)
 
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
