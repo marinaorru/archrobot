@@ -32,6 +32,12 @@ NASA and other companies are also studying new types of robots that will work wi
 
 **References:**
 
+[Tech Target](http://whatis.techtarget.com/definition/robotics)
+
+[Nasa](http://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what_is_robotics_k4.html)
+[Line Shape Space](https://lineshapespace.com/self-assembling-structures/)
+
+
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
