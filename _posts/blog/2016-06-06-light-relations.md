@@ -9,7 +9,7 @@ image:
   feature: lightcontrol0.jpg
   credit: King of Wallpapers
   creditlink: http://kingofwallpapers.com/light.html
-date: 2016-06-02T15:39:55-04:00
+date: 2016-06-06T15:39:55-04:00
 ---
 
 With the research focused on building a system for light control that works automatically according to the exterior space, the idea of having an artistic aspect has also developed. Knowing about different relations between interior and exterior in architecture, there is an interesting point that can be observed and studied.
