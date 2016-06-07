@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature: coversunset.jpg
+  feature: coverssunset.jpg
   credit: The Apricity
   creditlink: http://www.theapricity.com/forum/showthread.php?138616-Sunrise-or-sunset
 date: 2016-06-06T15:39:55-04:00
