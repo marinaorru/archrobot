@@ -27,6 +27,13 @@ The video below shows how this Roombots can be used. When it gets together with 
 
 **References:**
 
+[Robotics Tomorrow](http://www.roboticstomorrow.com/content.php?post_type=1803)
+
+[Archdaily](http://www.archdaily.com/336849/5-robots-revolutionizing-architectures-future)
+
+[Spectrum](http://spectrum.ieee.org/automaton/robotics/home-robots/roombots-want-to-be-all-your-furniture)
+
+
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
