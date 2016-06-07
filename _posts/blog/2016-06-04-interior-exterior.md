@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interior and Exterior: architecture relation"
+title: "Interior and Exterior in architecture"
 modified:
 categories: blog
 excerpt:
