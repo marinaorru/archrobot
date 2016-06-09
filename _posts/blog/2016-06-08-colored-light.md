@@ -33,8 +33,8 @@ Those stimulations can help to promote sleep, correct hormonal imbalances, comba
 
 Light is widely recognized for its healing qualities and now more medical journals are focusing on the benefits of light therapy.
 
-![Image of Sunset](https://marinaorru.github.io/images/sunset2.jpg)
-The Sunset - Image Credit: [Rantplaces](http://www.rantplaces.com/2014/11/04/10-amazing-sunsets-around-the-world/)
+![Image of Color](https://marinaorru.github.io/images/colortherapy.jpg)
+The Sunset - Image Credit: [Reddit](http://www.reddit.com)
 
 **References:**
 
