@@ -15,6 +15,7 @@ date: 2016-06-08T15:39:55-04:00
 According to some studies, colored light therapy, not only helps uplift feelings of depression, but heals mind, body and soul. This type of medicine has far-reaching benefits, from influencing cells in our body to restoring vibrational balance within our chakra system.
 
 ![Image of Color](https://marinaorru.github.io/images/colortherapy.jpg)
+
 The Sunset - Image Credit: [Reddit](http://www.reddit.com)
 
 Light and color represent wavelengths of energy. When they enter the eye, our cone cells in retina generate colors with different wave frequencies that translate energy to our cells to repair the body. Absorbing energy from the full spectrum of colored light stimulates:
