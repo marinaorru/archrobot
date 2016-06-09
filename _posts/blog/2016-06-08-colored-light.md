@@ -37,7 +37,7 @@ Those stimulations can help to promote sleep, correct hormonal imbalances, comba
 
 Light is widely recognized for its healing qualities and now more medical journals are focusing on the benefits of light therapy.
 
-**References:**
+**Sources:**
 
 [Mid Body Green](http://www.mindbodygreen.com/0-6603/How-Light-Therapy-Can-Help-Your-Mood.html)
 
