@@ -33,7 +33,7 @@ He had several investigations aligning and mixing interior and exterior, formed 
 
 
 
-**References:**
+**Sources:**
 
 [Self Growth Articles](http://www.selfgrowth.com/articles/the-relationship-between-the-interior-and-exterior)
 
