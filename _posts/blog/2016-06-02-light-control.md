@@ -21,7 +21,7 @@ At this point of the research where the main interest is the relation of the lig
 
 
 
-**References:**
+**Sources:**
 
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
