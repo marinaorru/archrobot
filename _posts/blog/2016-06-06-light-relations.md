@@ -26,7 +26,7 @@ The idea now is to keep in mind the light control for the interior, but also wor
 ![Image of Sunrise](https://marinaorru.github.io/images/sunrise.jpg)
 The Sunrise - Image Credit: [Deviantart](http://millymiau.deviantart.com/)
 
-**References:**
+**Sources:**
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sunset#Colors)
 
