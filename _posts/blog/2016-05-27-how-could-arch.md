@@ -25,7 +25,7 @@ The video below shows how this Roombots can be used. When it gets together with 
 <iframe width="560" height="315" src="//www.youtube.com/embed/yolIElqSDu4" frameborder="0"> </iframe>
 
 
-**References:**
+**Sources:**
 
 [Robotics Tomorrow](http://www.roboticstomorrow.com/content.php?post_type=1803)
 
