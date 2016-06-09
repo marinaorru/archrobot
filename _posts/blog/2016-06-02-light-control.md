@@ -20,9 +20,5 @@ The idea is to have this type of device with some modifications about its use. I
 At this point of the research where the main interest is the relation of the light inside and outside the building, a good way is to explore the relation between interior and exterior, in architecture. This relation could help create some characteristics to the robot, which makes it not only functional, but also artistic.  
 
 
-
-**Sources:**
-
-
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
